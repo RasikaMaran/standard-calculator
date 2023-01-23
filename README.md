@@ -102,5 +102,4 @@ Publish the website in the given URL.
 ![output](calval.png)
 
 ## Result:
-
 Thus a web application for standard calculator is designed.
